@@ -121,9 +121,6 @@
   <img alt="Sanskar's Instagram" width="24px" src="https://img.icons8.com/nolan/96/instagram-new.png" />
 </a>
 
-<a href="ttps://discord.gg/camu.al" target="_blank">
-  <img alt="Sanskar's Twitter" width="24px" src="https://img.icons8.com/nolan/96/discord.png" />
-</a>
 </div>
 
 <!--Footer--> 
