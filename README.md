@@ -77,7 +77,7 @@ I'm just getting started with my personal projects and really enjoy working with
 ## <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Featured Projects
 
 <a href="https://github.com/camu-al/Background-generator">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=camu-al&repo=Background-generator&theme=nightowl" alt="Background Generator" />
+  <img src="[https://github.com/camu-al/Dawnblade-Ronin-s-Vengeance/?username=camu-al&repo=Background-generator&theme=nightowl" alt="Background Generator" />
 </a>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Stats </b>
