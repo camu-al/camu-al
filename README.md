@@ -53,7 +53,6 @@ I'm just getting started with my personal projects and really enjoy working with
 - Working on a feudal Japan-themed platformer in Unity  
 
 ---
-  
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> My skills include</b>
@@ -76,8 +75,8 @@ I'm just getting started with my personal projects and really enjoy working with
 
 ## <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Featured Projects
 
-<a href="https://github.com/camu-al/Background-generator">
-  <img src="[https://github.com/camu-al/Dawnblade-Ronin-s-Vengeance/?username=camu-al&repo=Background-generator&theme=nightowl" alt="Background Generator" />
+<a href="https://github.com/camu-al/Dawnblade-Ronin">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=camu-al&repo=Dawnblade-Ronin&theme=nightowl" alt="Dawnblade Ronin" />
 </a>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Stats </b>
