@@ -119,16 +119,16 @@ I'm just getting started with my personal projects and really enjoy working with
 <!--Contact Section--> 
 <h2 align="left"> Check out my social media</h2>
 <div align="left">
-<a href="https://www.linkedin.com/in/sanskar-jaiswal-102b661a3/">
+<a href="https://www.linkedin.com/in/camu-al-camu%C3%B1as-mart%C3%ADnez-9b8272373/>
   <img alt="Sanskar's LinkedIn" width="24px" src="https://img.icons8.com/nolan/96/linkedin.png" />
   
 <a href="mailto:alexcammar04@gmail.com" target="_blank">
-  <img alt="Sanskar's Instagram" width="24px" src="https://img.icons8.com/nolan/96/gmail.png" />
+  <img alt="Sanskar's Gmail" width="24px" src="https://img.icons8.com/nolan/96/gmail.png" />
 </a>
 
 </a>
   <a href="https://www.github.com/camu-al/" target="_blank">
-  <img alt="Sanskar's Instagram" width="24px" src="https://img.icons8.com/nolan/96/github.png" />
+  <img alt="Sanskar's GitHUb" width="24px" src="https://img.icons8.com/nolan/96/github.png" />
 </a>
 
 <a href="https://www.instagram.com/camu.al/" target="_blank">
