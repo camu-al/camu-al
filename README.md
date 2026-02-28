@@ -17,13 +17,14 @@
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="40" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="40" alt="gmail logo"  />
+  {^_^}
 </div>
 
 <div>
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 
 <p align="left">
-Hi there! , I'm <a href="https://camu_al.github.io/profile/" style="color:#3B82F6;">Alex</a> {^_^}<br>
+Hi there! , I'm <a href="https://camu_al.github.io/profile/" style="color:#3B82F6;">Alex</a><br>
 
 I'm currently a 2nd-year student in <strong>Higher Technical Degree in Multi-platform Application Development (DAM)</strong> in Valencia.  
 I'm passionate about backend development with Java and Spring Boot, Android development using Retrofit and APIs REST, and learning how systems work behind the scenes.
