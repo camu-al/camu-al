@@ -124,31 +124,20 @@ I enjoy building personal projects, experimenting with code, and combining creat
 
 ## 📊 GitHub Stats
 
-
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=camu-al&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" alt="Contribution Graph">
+  <img src="https://streak-stats.demolab.com?user=camu-al&locale=es&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=camu-al&radius=16&theme=tokyo-night&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
-
 ---
 
 <!--Contact Section--> 
 <h2 align="left"> Check out my social media</h2>
 <div align="left">
-<a href="https://www.linkedin.com/in/camu-al-camu%C3%B1as-mart%C3%ADnez-9b8272373/>
-  <img alt="Sanskar's LinkedIn" width="24px" src="https://img.icons8.com/nolan/96/linkedin.png" />
-  
-<a href="mailto:alexcammar04@gmail.com" target="_blank">
-  <img alt="Sanskar's Gmail" width="24px" src="https://img.icons8.com/nolan/96/gmail.png" />
-</a>
-
-</a>
-  <a href="https://www.github.com/camu-al/" target="_blank">
-  <img alt="Sanskar's GitHUb" width="24px" src="https://img.icons8.com/nolan/96/github.png" />
-</a>
-
-<a href="https://www.instagram.com/camu.al/" target="_blank">
-  <img alt="Sanskar's Instagram" width="24px" src="https://img.icons8.com/nolan/96/instagram-new.png" />
-</a>
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="40" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="40" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="40" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="40" alt="discord logo"  />
+</div>
 
 </div>
 
