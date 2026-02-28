@@ -55,6 +55,14 @@ I enjoy building personal projects, experimenting with code, and combining creat
 
 ---
 
+<h2 align="left">🌟 Featured Projects</h2>
+
+<div align="left" style="width: 100%">
+  <a href="https://github.com/camu-al/Dawnblade-Ronin">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=camu-al&repo=Dawnblade-Ronin&theme=nightowl" alt="Dawnblade Ronin" />
+  </a>
+</div>
+
 ## 💻 Skills
 ###
 
@@ -102,15 +110,6 @@ I enjoy building personal projects, experimenting with code, and combining creat
   <img src="https://skillicons.dev/icons?i=postman" height="45" alt="postman logo"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-</div>
-
-<h2 align="left">🌟 Featured Projects</h2>
-###
-
-<div align="left" style="width: 100%">
-  <a href="https://github.com/camu-al/Dawnblade-Ronin">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=camu-al&repo=Dawnblade-Ronin&theme=nightowl" alt="Dawnblade Ronin" />
-  </a>
 </div>
 
 ## 📊 GitHub Stats
