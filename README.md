@@ -109,11 +109,7 @@ I enjoy building personal projects, experimenting with code, and combining creat
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/camu-al/camu-al/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/camu-al/camu-al/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/camu-al/camu-al/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/camu-al/camu-al/output/snake.svg" alt="Snake animation" />
 
 ###
 
