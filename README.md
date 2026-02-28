@@ -82,36 +82,7 @@ I enjoy building personal projects, experimenting with code, and combining creat
 </a>
 
 ## 📊 GitHub Stats
-<table>
-<tr>
-<td>
-<h3 align="center">General Stats</h3>
-<p align="center">
-<a href="https://github.com/camu-al">
-<img src="https://github-readme-stats.vercel.app/api?username=camu-al&count_private=true&show_icons=true&theme=nightowl" />
-</a>
-</p>
-</td>
-<td>
-<h3 align="center">Top Contributions</h3>
-<p align="center">
-<a href="https://github.com/camu-al">
-<img src="https://github-contributor-stats.vercel.app/api?username=camu-al&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" />
-</a>
-</p>
-</td>
-</tr>
-<tr>
-<td colspan="2">
-<h3 align="center">Streak</h3>
-<p align="center">
-<a href="https://github.com/camu-al">
-<img src="https://streak-stats.demolab.com?user=camu-al&theme=nightowl" />
-</a>
-</p>
-</td>
-</tr>
-</table>
+
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=camu-al&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" alt="Contribution Graph">
