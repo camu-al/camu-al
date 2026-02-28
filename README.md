@@ -71,7 +71,7 @@ I enjoy building personal projects, experimenting with code, and combining creat
   <br><br>
   <b>Back-End & Mobile:</b><br>
   <img src="https://skillicons.dev/icons?i=spring" height="45" alt="Spring" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="45" alt="Mobile Dev" />
+  <img src="https://raw.githubusercontent.com/github/explore/0c5cfa50e9ca509d9f09eb3f74d31068c5fa7a86/topics/android/android.png" height="45" alt="Android" />
   <br><br>
   <b>Tools & Technologies:</b><br>
   <img src="https://skillicons.dev/icons?i=eclipse" height="45" alt="Eclipse" />
