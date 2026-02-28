@@ -80,8 +80,7 @@ I enjoy building personal projects, experimenting with code, and combining creat
   <img src="https://skillicons.dev/icons?i=postman" height="45" alt="Postman" />
 </p>
 
-## <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Featured Projects
-
+## 🌟 Featured Projects
 <a href="https://github.com/camu-al/Dawnblade-Ronin">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=camu-al&repo=Dawnblade-Ronin&theme=nightowl" alt="Dawnblade Ronin" />
 </a>
