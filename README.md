@@ -106,7 +106,11 @@ I enjoy building personal projects, experimenting with code, and combining creat
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=camu-al&radius=16&theme=tokyo-night&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
 
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/camu-al/camu-al/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/camu-al/camu-al/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/camu-al/camu-al/output/pacman-contribution-graph.svg">
+</picture>
 
 <!--Footer--> 
 <p align="center">
