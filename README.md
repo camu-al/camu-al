@@ -22,19 +22,20 @@
 <p align="left">
 Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" alt="wave"> , I'm <a href="https://camu_al.github.io/profile/" style="color:#3B82F6;">Alex</a><br>
 
-I'm currently studying my first year of a Higher Technical Degree in Multi-platform Application Development.  
-I'm passionate about backend development, understanding how systems work behind the scenes, and solving technical problems with code.
+I'm currently a 2nd-year student in <strong>Higher Technical Degree in Multi-platform Application Development (DAM)</strong> in Valencia.  
+I'm passionate about backend development with Java and Spring Boot, Android development using Retrofit and APIs REST, and learning how systems work behind the scenes.
 
-I'm just getting started with my personal projects and really enjoy working with Java, databases, and tools like Git and GitHub.
+I enjoy building personal projects, experimenting with code, and combining creativity with technical skills, especially in game development and pixel art.
 </p>
 
 ---
 
 ### 🚀 Currently learning
 - Java and Object-Oriented Programming  
+- Spring Boot and backend development  
+- Android development with Retrofit and REST APIs  
 - MySQL and relational database design  
 - Git & GitHub for version control  
-- Web development fundamentals  
 
 ---
 
@@ -43,14 +44,15 @@ I'm just getting started with my personal projects and really enjoy working with
 - Contribute to open source projects  
 - Learn about APIs, testing, security, and deployment  
 - Finish and publish my first Unity game  
+- Improve my skills in pixel art and game design  
 
 ---
 
 ### 🎮 Personal interests
-- Big fan of video games, especially story-driven games and first-person shooters (FPS)  
-- I collect figures and enjoy reading manga  
-- Currently learning pixel art as a hobby 🎨  
-- Working on a feudal Japan-themed platformer in Unity  
+- Developing video games, both backend logic and game mechanics  
+- Pixel art creation for personal projects and games 🎨  
+- Story-driven video games and platformers  
+- Collecting figures and reading manga  
 
 ---
 
