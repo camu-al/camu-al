@@ -23,7 +23,7 @@
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 
 <p align="left">
-Hi there! , I'm <a href="https://camu_al.github.io/profile/" style="color:#3B82F6;">Alex {^_^}</a><br>
+Hi there! , I'm <a href="https://camu_al.github.io/profile/" style="color:#3B82F6;">Alex</a> {^_^}<br>
 
 I'm currently a 2nd-year student in <strong>Higher Technical Degree in Multi-platform Application Development (DAM)</strong> in Valencia.  
 I'm passionate about backend development with Java and Spring Boot, Android development using Retrofit and APIs REST, and learning how systems work behind the scenes.
