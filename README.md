@@ -85,42 +85,43 @@ I enjoy building personal projects, experimenting with code, and combining creat
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=camu-al&repo=Dawnblade-Ronin&theme=nightowl" alt="Dawnblade Ronin" />
 </a>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Stats </b>
-
-<table style="width: 850px; margin: 0 auto; border-collapse: collapse;">
-  <tr>
-    <td style="width: 425px;">
-      <h3 align="center"><strong>General Stats</strong></h3>
-      <p align="center">
-        <a href="https://github.com/camu-al">
-          <img src="https://github-readme-stats.vercel.app/api?username=camu-al&count_private=true&show_icons=true&theme=nightowl" />
-        </a>
-      </p>
-    </td>
-    <td style="width: 425px;">
-      <h3 align="center"><strong>Top Contributions</strong></h3>
-      <p align="center">
-        <a href="https://github.com/camu-al">
-          <img src="https://github-contributor-stats.vercel.app/api?username=camu-al&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <h3 align="center"><strong>Streak</strong></h3>
-      <p align="center">
-        <a href="https://github.com/camu-al">
-          <img src="https://streak-stats.demolab.com?user=camu-al&theme=nightowl" />
-        </a>
-      </p>
-    </td>
-  </tr>
+## 📊 GitHub Stats
+<table>
+<tr>
+<td>
+<h3 align="center">General Stats</h3>
+<p align="center">
+<a href="https://github.com/camu-al">
+<img src="https://github-readme-stats.vercel.app/api?username=camu-al&count_private=true&show_icons=true&theme=nightowl" />
+</a>
+</p>
+</td>
+<td>
+<h3 align="center">Top Contributions</h3>
+<p align="center">
+<a href="https://github.com/camu-al">
+<img src="https://github-contributor-stats.vercel.app/api?username=camu-al&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" />
+</a>
+</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<h3 align="center">Streak</h3>
+<p align="center">
+<a href="https://github.com/camu-al">
+<img src="https://streak-stats.demolab.com?user=camu-al&theme=nightowl" />
+</a>
+</p>
+</td>
+</tr>
 </table>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=camu-al&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" alt="Contribution Graph">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=camu-al&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" alt="Contribution Graph">
 </div>
+
+---
 
 <!--Contact Section--> 
 <h2 align="left"> Check out my social media</h2>
