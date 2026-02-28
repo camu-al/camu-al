@@ -61,6 +61,7 @@ I enjoy building personal projects, experimenting with code, and combining creat
 <p align="left">
   <b>Languages:</b><br>
   <img src="https://skillicons.dev/icons?i=java" height="45" alt="Java" />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="45" alt="Kotlin" />
   <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="MySQL" />
   <br><br>
   <b>Front-End:</b><br>
@@ -68,12 +69,16 @@ I enjoy building personal projects, experimenting with code, and combining creat
   <img src="https://skillicons.dev/icons?i=css" height="45" alt="CSS" />
   <img src="https://skillicons.dev/icons?i=js" height="45" alt="JavaScript" />
   <br><br>
-  <b>Other tools and technologies:</b><br>
+  <b>Back-End & Frameworks:</b><br>
+  <img src="https://skillicons.dev/icons?i=springboot" height="45" alt="Spring Boot" />
+  <img src="https://skillicons.dev/icons?i=android" height="45" alt="Android Studio" />
+  <br><br>
+  <b>Tools & Technologies:</b><br>
   <img src="https://skillicons.dev/icons?i=eclipse" height="45" alt="Eclipse" />
   <img src="https://skillicons.dev/icons?i=vscode" height="45" alt="VSCode" />
   <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=postman" height="45" alt="Postman" />
 </p>
-
 ## <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Featured Projects
 
 <a href="https://github.com/camu-al/Dawnblade-Ronin">
