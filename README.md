@@ -90,7 +90,6 @@ I enjoy building personal projects, experimenting with code, and combining creat
 
 ###
 
-
 **Tools & Technologies**  
 <img src="https://skillicons.dev/icons?i=eclipse" height="45" alt="eclipse logo"/>
 <img width="12" />
