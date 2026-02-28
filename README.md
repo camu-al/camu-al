@@ -55,30 +55,27 @@ I enjoy building personal projects, experimenting with code, and combining creat
 
 ---
 
+## 💻 Skills
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> My skills include</b>
+**Languages**  
+<img src="https://skillicons.dev/icons?i=java" height="45" />  
+<img src="https://skillicons.dev/icons?i=kotlin" height="45" />  
+<img src="https://skillicons.dev/icons?i=mysql" height="45" />  
 
-<p align="left">
-  <b>Languages:</b><br>
-  <img src="https://skillicons.dev/icons?i=java" height="45" alt="Java" />
-  <img src="https://skillicons.dev/icons?i=kotlin" height="45" alt="Kotlin" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="MySQL" />
-  <br><br>
-  <b>Front-End:</b><br>
-  <img src="https://skillicons.dev/icons?i=html" height="45" alt="HTML" />
-  <img src="https://skillicons.dev/icons?i=css" height="45" alt="CSS" />
-  <img src="https://skillicons.dev/icons?i=js" height="45" alt="JavaScript" />
-  <br><br>
-  <b>Back-End & Mobile:</b><br>
-  <img src="https://skillicons.dev/icons?i=spring" height="45" alt="Spring" />
-  <img src="https://raw.githubusercontent.com/github/explore/0c5cfa50e9ca509d9f09eb3f74d31068c5fa7a86/topics/android/android.png" height="45" alt="Android" />
-  <br><br>
-  <b>Tools & Technologies:</b><br>
-  <img src="https://skillicons.dev/icons?i=eclipse" height="45" alt="Eclipse" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="45" alt="VSCode" />
-  <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub" />
-  <img src="https://skillicons.dev/icons?i=postman" height="45" alt="Postman" />
-</p>
+**Front-End**  
+<img src="https://skillicons.dev/icons?i=html" height="45" />  
+<img src="https://skillicons.dev/icons?i=css" height="45" />  
+<img src="https://skillicons.dev/icons?i=js" height="45" />  
+
+**Back-End & Mobile**  
+<img src="https://skillicons.dev/icons?i=spring" height="45" />  
+<img src="https://raw.githubusercontent.com/github/explore/0c5cfa50e9ca509d9f09eb3f74d31068c5fa7a86/topics/android/android.png" height="45" />  
+
+**Tools & Technologies**  
+<img src="https://skillicons.dev/icons?i=eclipse" height="45" />  
+<img src="https://skillicons.dev/icons?i=vscode" height="45" />  
+<img src="https://skillicons.dev/icons?i=github" height="45" />  
+<img src="https://skillicons.dev/icons?i=postman" height="45" />  
 
 ## 🌟 Featured Projects
 <a href="https://github.com/camu-al/Dawnblade-Ronin">
