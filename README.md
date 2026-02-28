@@ -102,10 +102,26 @@ I enjoy building personal projects, experimenting with code, and combining creat
 <img width="12" />
 <img src="https://skillicons.dev/icons?i=postman" height="45" alt="postman logo"/>  
 
-## 🌟 Featured Projects
-<a href="https://github.com/camu-al/Dawnblade-Ronin">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=camu-al&repo=Dawnblade-Ronin&theme=nightowl" alt="Dawnblade Ronin" />
-</a>
+<h2 align="left">🌟 Featured Projects</h2>
+###
+
+<div align="left" style="width: 100%">
+  <a href="https://github.com/camu-al/Dawnblade-Ronin">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=camu-al&repo=Dawnblade-Ronin&theme=nightowl" alt="Dawnblade Ronin" />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@camu-al/1">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@camu-al/1" alt="Medium post 2"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@camu-al/2">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@camu-al/2" alt="Medium post 3"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@camu-al/3">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@camu-al/3" alt="Medium post 4"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@camu-al/4">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@camu-al/4" alt="Medium post 5"  />
+  </a>
+</div>
 
 ## 📊 GitHub Stats
 
