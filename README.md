@@ -51,8 +51,7 @@ I enjoy building personal projects, experimenting with code, and combining creat
 ### 🎮 Personal interests
 - Developing video games, both backend logic and game mechanics  
 - Pixel art creation for personal projects and games 🎨  
-- Story-driven video games and platformers  
-- Collecting figures and reading manga  
+- Story-driven video games and platformers   
 
 ---
 
