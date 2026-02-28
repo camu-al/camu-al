@@ -56,18 +56,39 @@ I enjoy building personal projects, experimenting with code, and combining creat
 ---
 
 ## 💻 Skills
+###
 
-**Languages**  
-<img src="https://skillicons.dev/icons?i=java" height="45" />  
-<img src="https://skillicons.dev/icons?i=kotlin" height="45" />  
-<img src="https://skillicons.dev/icons?i=mysql" height="45" />  
+<h4 align="left">Languages</h4>
 
-**Front-End**  
-<img src="https://skillicons.dev/icons?i=html" height="45" />  
-<img src="https://skillicons.dev/icons?i=css" height="45" />  
-<img src="https://skillicons.dev/icons?i=js" height="45" />  
+###
 
-**Back-End & Mobile**  
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain.svg" height="40" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+</div>
+
+###
+
+<h4 align="left">Front-End</h4>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
+</div>
+
+###
+
+<p align="left">Back-End & Mobile</p>
+
+###
 
 
 **Tools & Technologies**  
