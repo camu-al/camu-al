@@ -106,13 +106,6 @@ I enjoy building personal projects, experimenting with code, and combining creat
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=camu-al&radius=16&theme=tokyo-night&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
 
-
-###
-
-<img src="https://raw.githubusercontent.com/camu-al/camu-al/output/snake.svg" alt="Snake animation" />
-
-###
-
 <!--Footer--> 
 <p align="center">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=footer"/>
