@@ -61,7 +61,7 @@ I enjoy building personal projects, experimenting with code, and combining creat
 <h2 align="left">🌟 Featured Projects</h2>
 
 <div align="left" style="width: 100%">
-  <a href="github.com/camu-al/reservas_hotel_springboot">
+  <a href="https://github.com/camu-al/reservas_hotel_springboot.git">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=camu-al&repo=reservas_hotel_springboot&theme=tokyonight" alt="Reservas Hoteles - Spring Boot" />
   </a>
 </div>
