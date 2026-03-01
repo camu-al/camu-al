@@ -67,15 +67,15 @@ I enjoy building personal projects, experimenting with code, and combining creat
 
 <div align="left" style="width: 100%">
   <a href="https://github.com/camu-al/reservas_hotel_springboot.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=camu-al&repo=reservas_hotel_springboot&theme=tokyonight" alt="Reservas Hoteles - Spring Boot" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=camu-al&repo=reservas_hotel_springboot&theme=tokyonight" alt="Reservas Hoteles - Spring Boot /" />
   </a>
   
   <a href="https://github.com/camu-al/Wikimon_Android">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=camu-al&repo=Wikimon_Android&theme=tokyonight" alt="Api Wikimon - Android" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=camu-al&repo=Wikimon_Android&theme=tokyonight" alt="Api Wikimon - Android /" />
   </a>
   
   <a href="https://github.com/camu-al/SimaGrow_Android">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=camu-al&repo=SimaGrow_Android&theme=tokyonight" alt="Api SimaGrow- Android" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=camu-al&repo=SimaGrow_Android&theme=tokyonight" alt="Api SimaGrow- Android " />
   </a>
   
 </div>
