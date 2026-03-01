@@ -69,8 +69,7 @@ I enjoy building personal projects, experimenting with code, and combining creat
 ## 💻 Skills
 ###
 
-<h4 align="left">Languages</h4>
-
+**Languages:**  
 ###
 
 <div align="left">
@@ -83,7 +82,7 @@ I enjoy building personal projects, experimenting with code, and combining creat
 
 ###
 
-**Tools & Technologies**  
+**Tools & Technologies:**  
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
