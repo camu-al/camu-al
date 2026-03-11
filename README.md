@@ -3,7 +3,7 @@
 
 <!--Header Name-->
 <h1 align="left">
-  <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me
+   About Me
 </h1>
 
 <!-- Info Badges -->
