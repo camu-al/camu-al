@@ -67,15 +67,15 @@ I love building real projects, learning how systems work behind the scenes, and 
 
 <div align="left">
 
-  <a href="https://github.com/camu-al/reservas_hotel_springboot">
+  <a href="https://github.com/camu-al/booking-manager">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=camu-al&repo=reservas_hotel_springboot&theme=tokyonight&hide_border=true" />
   </a>
 
-  <a href="https://github.com/camu-al/Wikimon_Android">
+  <a href="https://github.com/camu-al/wikimon">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=camu-al&repo=Wikimon_Android&theme=tokyonight&hide_border=true" />
   </a>
 
-  <a href="https://github.com/camu-al/SimaGrow_Android">
+  <a href="https://github.com/camu-al/simagrow">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=camu-al&repo=SimaGrow_Android&theme=tokyonight&hide_border=true" />
   </a>
 
