@@ -44,43 +44,6 @@ I enjoy working on real projects, improving my skills through practice, and unde
 - Git & GitHub workflows  
 
 ---
-
-### 🎯 Goals
-- Become a professional backend developer  
-- Contribute to open-source projects  
-- Learn testing, security and deployment  
-- Publish my first Unity game  
-- Improve pixel art & game design skills  
-
----
-
-### 🎮 Personal Interests
-- Game development (mechanics, logic, tools)  
-- Pixel art for personal projects  
-- Story-driven games & platformers  
-
----
-
-<h2 align="left">🌟 Featured Projects</h2>
-
-<div align="left">
-
-  <a href="https://github.com/camu-al/booking-manager">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=camu-al&repo=reservas_hotel_springboot&theme=tokyonight&hide_border=true" />
-  </a>
-
-  <a href="https://github.com/camu-al/wikimon">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=camu-al&repo=Wikimon_Android&theme=tokyonight&hide_border=true" />
-  </a>
-
-  <a href="https://github.com/camu-al/simagrow">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=camu-al&repo=SimaGrow_Android&theme=tokyonight&hide_border=true" />
-  </a>
-
-</div>
-
----
-
 ## 💻 Skills
 
 ### **Languages**
@@ -108,6 +71,27 @@ I enjoy working on real projects, improving my skills through practice, and unde
 </div>
 
 ---
+<h2 align="left">🌟 Featured Projects</h2>
+
+<div align="left">
+
+  <a href="https://github.com/camu-al/booking-manager">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=camu-al&repo=reservas_hotel_springboot&theme=tokyonight&hide_border=true" />
+  </a>
+
+  <a href="https://github.com/camu-al/wikimon">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=camu-al&repo=Wikimon_Android&theme=tokyonight&hide_border=true" />
+  </a>
+
+  <a href="https://github.com/camu-al/simagrow">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=camu-al&repo=SimaGrow_Android&theme=tokyonight&hide_border=true" />
+  </a>
+
+</div>
+
+---
+
+
 
 ## 📊 GitHub Stats
 
