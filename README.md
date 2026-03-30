@@ -29,11 +29,11 @@
 
 <!-- About Text -->
 <p align="left">
-Hi! I'm <a href="https://github.com/camu-al" style="color:#1E40AF;"><strong>Alex Camuñas</strong></a>,  
-a 2nd-year student of <strong>Multi‑platform Application Development (DAM)</strong> in Valencia.
+Hi! I'm <a href="https://github.com/camu-al" style="color:#1E40AF;"><strong>Alex Camuñas</strong></a>, a developer focused on building clean and scalable applications.  
+I'm currently studying <strong>Multi‑platform Application Development (DAM)</strong> in Valencia, where I specialize in <strong>backend development</strong> with Java and Spring Boot, and <strong>Android development</strong> using Kotlin and REST APIs.
 
-I specialize in <strong>backend development</strong> with Java & Spring Boot, and <strong>Android development</strong> using Kotlin, Retrofit and REST APIs.  
-I love building real projects, learning how systems work behind the scenes, and combining creativity with technology — especially in game development and pixel art.
+I enjoy working on real projects, improving my skills through practice, and understanding how systems work behind the scenes.
+
 </p>
 
 ---
