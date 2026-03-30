@@ -69,7 +69,6 @@ I enjoy working on real projects, improving my skills through practice, and unde
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
 </div>
 
----
 <h2 align="left">🌟 Projects</h2>
 
 <div align="left">
@@ -87,10 +86,6 @@ I enjoy working on real projects, improving my skills through practice, and unde
   </a>
 
 </div>
-
----
-
-
 
 ## 📊 GitHub Stats
 
