@@ -21,12 +21,10 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=flat" height="40" />
   </a>
 </div>
-
 <br>
 
 <!-- GIF -->
 <img align="right" width="230" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
-
 <!-- About Text -->
 <p align="left">
 Hi! I'm <a href="https://github.com/camu-al" style="color:#1E40AF;"><strong>Alex Camuñas</strong></a>, a developer focused on building clean and scalable applications.  
