@@ -41,9 +41,8 @@ I enjoy working on real projects, improving my skills through practice, and unde
 - Spring Boot (REST APIs, services, repositories, DTOs)  
 - Android development (Kotlin, Retrofit, Room)  
 - MySQL & relational database design  
-- Git & GitHub workflows  
-
----
+- Git & GitHub workflows
+  
 ## 💻 Skills
 
 ### **Languages**
