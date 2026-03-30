@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=flat" height="40" />
   </a>
 
-  <a href="mailto:alexcammar04@gmail.com" target="_blank">
+  <a href="mailto:camudeveloper@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=flat" height="40" />
   </a>
 </div>
