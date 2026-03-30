@@ -54,7 +54,7 @@ I enjoy working on real projects, improving my skills through practice, and unde
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
 </div>
 
-### **Tools & Technologies**
+### **Tools**
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40"/>
   <img width="12"/>
@@ -70,7 +70,7 @@ I enjoy working on real projects, improving my skills through practice, and unde
 </div>
 
 ---
-<h2 align="left">🌟 Featured Projects</h2>
+<h2 align="left">🌟 Projects</h2>
 
 <div align="left">
 
