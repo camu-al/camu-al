@@ -27,8 +27,7 @@
 <img align="right" width="230" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 <!-- About Text -->
 <p align="left">
-Hi! I'm <a href="https://github.com/camu-al" style="color:#1E40AF;"><strong>Alex Camuñas</strong></a>, a developer focused on building clean and scalable applications.  
-I'm currently studying <strong>Multi‑platform Application Development (DAM)</strong> in Valencia, where I specialize in <strong>backend development</strong> with Java and Spring Boot, and <strong>Android development</strong> using Kotlin and REST APIs.
+Hi! I'm <a href="https://github.com/camu-al" style="color:#1E40AF;"><strong>Alex Camuñas</strong></a>, i'm currently studying <strong>Multi‑platform Application Development (DAM)</strong> in Valencia, where I specialize in <strong>backend development</strong> with Java and Spring Boot, and <strong>Android development</strong> using Kotlin and REST APIs.
 
 I enjoy working on real projects, improving my skills through practice, and understanding how systems work behind the scenes.
 
