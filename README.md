@@ -88,18 +88,22 @@ I enjoy working on real projects, improving my skills through practice, and unde
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<table>
+<tr>
+<td rowspan="2">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=camu-al&langs_count=10&theme=tokyonight" />
+</td>
+<td>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=camu-al&theme=tokyonight" />
+</td>
+</tr>
+<tr>
+<td>
+  <img src="https://github-readme-stats.vercel.app/api?username=camu-al&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,issue_comments&theme=tokyonight" />
+</td>
+</tr>
+</table>
 
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=camu-al&langs_count=10&theme=tokyonight"/>
-
-  <img height="180em"
-       src="https://github-readme-streak-stats.herokuapp.com?user=camu-al&theme=tokyonight"/>
-
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api?username=camu-al&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,issue_comments&theme=tokyonight"/>
-
-</div>
 <!-- Footer -->
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1E40AF&height=120&section=footer"/>
