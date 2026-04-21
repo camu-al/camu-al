@@ -91,7 +91,7 @@ I enjoy working on real projects, improving my skills through practice, and unde
 <table>
 <tr>
 <td rowspan="2">
-  <img src="https://github-readme-stats.vercel.app/api?username=camu-al&show_icons=true&theme=tokyonight" height="320"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=camu-al&layout=compact&theme=tokyonight" height="155"/>
 </td>
 <td>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=camu-al&theme=tokyonight" height="155"/>
@@ -99,7 +99,7 @@ I enjoy working on real projects, improving my skills through practice, and unde
 </tr>
 <tr>
 <td>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=camu-al&layout=compact&theme=tokyonight" height="155"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=camu-al&show_icons=true&theme=tokyonight" height="320"/>
 </td>
 </tr>
 </table>
