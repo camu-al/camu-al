@@ -90,16 +90,18 @@ I enjoy working on real projects, improving my skills through practice, and unde
 
 <table>
 <tr>
-<td rowspan="2">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=camu-al&langs_count=10&theme=tokyonight" />
+<td rowspan="2" valign="top">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=camu-al&langs_count=12&layout=default&theme=tokyonight" height="320"/>
 </td>
+
 <td>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=camu-al&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=camu-al&theme=tokyonight" height="160"/>
 </td>
 </tr>
+
 <tr>
 <td>
-  <img src="https://github-readme-stats.vercel.app/api?username=camu-al&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,issue_comments&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=camu-al&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,issue_comments&theme=tokyonight" height="160"/>
 </td>
 </tr>
 </table>
