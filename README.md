@@ -87,20 +87,22 @@ I enjoy working on real projects, improving my skills through practice, and unde
 </div>
 
 ## 📊 GitHub Stats
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=camu-al&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=camu-al&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=camu-al&theme=tokyonight" />
-</p>
-
+<table>
+<tr>
+<td rowspan="2">
+  <img src="https://github-readme-stats.vercel.app/api?username=camu-al&show_icons=true&theme=tokyonight" height="320"/>
+</td>
+<td>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=camu-al&theme=tokyonight" height="155"/>
+</td>
+</tr>
+<tr>
+<td>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=camu-al&layout=compact&theme=tokyonight" height="155"/>
+</td>
+</tr>
+</table>
 <!-- Footer -->
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1E40AF&height=120&section=footer"/>
