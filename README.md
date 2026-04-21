@@ -94,7 +94,7 @@ I enjoy working on real projects, improving my skills through practice, and unde
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=camu-al&layout=compact&theme=tokyonight" height="300"/>
 </td>
 <td>
-  <img src="https://github-readme-stats.vercel.app/api?username=camu-al&show_icons=true&theme=tokyonight" height="155"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=camu-al&show_icons=true&theme=tokyonight" height="152"/>
 </td>
 </tr>
 <tr>
