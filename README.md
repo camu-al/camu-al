@@ -89,11 +89,28 @@ I enjoy working on real projects, improving my skills through practice, and unde
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=camu-al&locale=es&mode=daily&theme=tokyonight&hide_border=true&border_radius=5" height="150"/>
-  <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=camu-al&radius=16&theme=tokyo-night&area=true&hide_border=true" height="300"/>
+  <table align="center">
+    <tr align="center" valign="middle">
+      <td rowspan="2" align="center" valign="middle">
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=camu-al&langs_count=10&theme=tokyo-night&show_icons=true" alt="Top Languages" />
+        </a>
+      </td>
+      <td align="center" valign="middle">
+        <a href="https://git.io/streak-stats">
+          <img src="https://github-readme-streak-stats.herokuapp.com?user=camu-al&theme=tokyo-night" alt="GitHub Streak" />
+        </a>
+      </td>
+    </tr>
+    <tr align="center" valign="middle">
+      <td align="center" valign="middle">
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img src="https://github-readme-stats.vercel.app/api?username=camu-al&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,issue_comments&theme=tokyo-night" alt="GitHub Additional Stats" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
-
 <!-- Footer -->
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1E40AF&height=120&section=footer"/>
