@@ -87,30 +87,19 @@ I enjoy working on real projects, improving my skills through practice, and unde
 </div>
 
 ## 📊 GitHub Stats
+## 📊 GitHub Stats
 
-<div align="center">
-  <table align="center">
-    <tr align="center" valign="middle">
-      <td rowspan="2" align="center" valign="middle">
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=camu-al&langs_count=10&theme=tokyo-night&show_icons=true" alt="Top Languages" />
-        </a>
-      </td>
-      <td align="center" valign="middle">
-        <a href="https://git.io/streak-stats">
-          <img src="https://github-readme-streak-stats.herokuapp.com?user=camu-al&theme=tokyo-night" alt="GitHub Streak" />
-        </a>
-      </td>
-    </tr>
-    <tr align="center" valign="middle">
-      <td align="center" valign="middle">
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api?username=camu-al&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,issue_comments&theme=tokyo-night" alt="GitHub Additional Stats" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=camu-al&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=camu-al&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=camu-al&theme=tokyonight" />
+</p>
 
 <!-- Footer -->
 <p align="center">
