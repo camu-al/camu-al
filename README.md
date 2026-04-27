@@ -72,7 +72,7 @@ I enjoy working on real projects, improving my skills through practice, and unde
 
 <div align="left">
 
-  <a href="https://github.com/camu-al/indapedia">
+  <a href="https://github.com/camu-al/inapedia">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=camu-al&repo=inapedia&theme=tokyonight&hide_border=true" />
   </a>
 
