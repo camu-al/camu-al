@@ -73,19 +73,19 @@ I enjoy working on real projects, improving my skills through practice, and unde
 <div align="left">
 
   <a href="https://github.com/camu-al/inapedia">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=camu-al&repo=inapedia&theme=tokyonight&hide_border=true" />
+    <img src="https://img.shields.io/badge/Project-Inapedia-blue?style=for-the-badge&logo=github" height="35" />
   </a>
 
   <a href="https://github.com/camu-al/wikimon">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=camu-al&repo=wikimon&theme=tokyonight&hide_border=true" />
+    <img src="https://img.shields.io/badge/Project-Wikimon-purple?style=for-the-badge&logo=github" height="35" />
   </a>
 
   <a href="https://github.com/camu-al/simagrow">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=camu-al&repo=simagrow&theme=tokyonight&hide_border=true" />
+    <img src="https://img.shields.io/badge/Project-SimaGrow-3DDC84?style=for-the-badge&logo=android&logoColor=white" height="35" />
   </a>
 
   <a href="https://github.com/camu-al/booking-manager">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=camu-al&repo=booking-manager&theme=tokyonight&hide_border=true" />
+    <img src="https://img.shields.io/badge/Project-Booking_Manager-orange?style=for-the-badge&logo=springboot&logoColor=white" height="35" />
   </a>
 
 </div>
