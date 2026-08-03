@@ -27,9 +27,11 @@
 <img align="right" width="230" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 <!-- About Text -->
 <p align="left">
-Hi! I'm <a href="https://github.com/camu-al" style="color:#1E40AF;"><strong>Alex Camuñas</strong></a>, i'm currently studying <strong>Multi‑platform Application Development (DAM)</strong> in Valencia, where I specialize in <strong>backend development</strong> with Java and Spring Boot, and <strong>Android development</strong> using Kotlin and REST APIs.
+Hi! I'm <a href="https://github.com/camu-al" style="color:#1E40AF;"><strong>Alex Camuñas</strong></a>, a <strong>Multi-platform Application Development (DAM)</strong> graduate from Valencia.
 
-I enjoy working on real projects, improving my skills through practice, and understanding how systems work behind the scenes.
+I'm passionate about <strong>backend development</strong> with Java and Spring Boot, as well as <strong>Android development</strong> using Kotlin. I enjoy designing and building <strong>REST APIs</strong>, working with databases such as MySQL, and applying clean architectures in real-world projects.
+
+I'm currently looking for an internship opportunity where I can continue learning, contribute to real software projects, and grow as a software developer.
 
 </p>
 
