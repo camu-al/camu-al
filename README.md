@@ -64,15 +64,32 @@ I'm currently looking for an internship opportunity where I can continue learnin
 <h2 align="left">🌟 Projects</h2>
 
 <div align="left">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=camu-al&repo=booking-manager&theme=tokyonight)](https://github.com/camu-al/booking-manager)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=camu-al&repo=wikimon&theme=tokyonight)](https://github.com/camu-al/wikimon)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=camu-al&repo=simagrow&theme=tokyonight)](https://github.com/camu-al/simagrow)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=camu-al&repo=inapedia&theme=tokyonight)](https://github.com/camu-al/inapedia)
-
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/camu-al/booking-manager">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=camu-al&repo=booking-manager&theme=tokyonight" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/camu-al/wikimon">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=camu-al&repo=wikimon&theme=tokyonight" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/camu-al/simagrow">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=camu-al&repo=simagrow&theme=tokyonight" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/camu-al/inapedia">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=camu-al&repo=inapedia&theme=tokyonight" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## 📊 GitHub Stats
