@@ -63,21 +63,12 @@ I'm currently looking for an internship opportunity where I can continue learnin
 
 <h2 align="left">🌟 Projects</h2>
 
-<p align="left">
-  <a href="https://github.com/camu-al/booking-manager">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=camu-al&repo=booking-manager&theme=tokyonight&cache_seconds=86400" width="48%" />
-  </a>
-  <a href="https://github.com/camu-al/wikimon">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=camu-al&repo=wikimon&theme=tokyonight&cache_seconds=86400" width="48%" />
-  </a>
-  <br>
-  <a href="https://github.com/camu-al/simagrow">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=camu-al&repo=simagrow&theme=tokyonight&cache_seconds=86400" width="48%" />
-  </a>
-  <a href="https://github.com/camu-al/inapedia">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=camu-al&repo=inapedia&theme=tokyonight&cache_seconds=86400" width="48%" />
-  </a>
-</p>
+<ul align="left">
+  <li><b><a href="https://github.com/camu-al/booking-manager">booking-manager</a></b>: Sistema de gestión y reservas.</li>
+  <li><b><a href="https://github.com/camu-al/wikimon">wikimon</a></b>: Aplicación orientada a información y recursos.</li>
+  <li><b><a href="https://github.com/camu-al/simagrow">simagrow</a></b>: Plataforma de desarrollo y control.</li>
+  <li><b><a href="https://github.com/camu-al/inapedia">inapedia</a></b>: Repositorio de documentación y utilidades.</li>
+</ul>
 
 ## 📊 GitHub Stats
 
