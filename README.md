@@ -70,6 +70,23 @@ I'm currently looking for an internship opportunity where I can continue learnin
   <li><b><a href="https://github.com/camu-al/inapedia">inapedia</a></b>: Repositorio de documentación y utilidades.</li>
 </ul>
 
+<h2 align="left">🌟 Projects</h2>
+
+<p align="left">
+  <a href="https://github.com/camu-al/booking-manager">
+    <img src="https://img.shields.io/badge/booking--manager-0F172A?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/camu-al/wikimon">
+    <img src="https://img.shields.io/badge/wikimon-0F172A?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/camu-al/simagrow">
+    <img src="https://img.shields.io/badge/simagrow-0F172A?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/camu-al/inapedia">
+    <img src="https://img.shields.io/badge/inapedia-0F172A?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
 ## 📊 GitHub Stats
 
 <table>
@@ -87,7 +104,6 @@ I'm currently looking for an internship opportunity where I can continue learnin
 </td>
 </tr>
 </table>
-
 <!-- Footer -->
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1E40AF&height=120&section=footer"/>
