@@ -63,34 +63,34 @@ I'm currently looking for an internship opportunity where I can continue learnin
 
 <h2 align="left">🌟 Projects</h2>
 
-<div align="left">
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/camu-al/booking-manager">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=camu-al&repo=booking-manager&theme=tokyonight" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/camu-al/wikimon">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=camu-al&repo=wikimon&theme=tokyonight" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/camu-al/simagrow">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=camu-al&repo=simagrow&theme=tokyonight" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/camu-al/inapedia">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=camu-al&repo=inapedia&theme=tokyonight" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+<table align="left">
+  <tr>
+    <td>
+      <a href="https://github.com/camu-al/booking-manager">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=camu-al&repo=booking-manager&theme=tokyonight" width="400" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/camu-al/wikimon">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=camu-al&repo=wikimon&theme=tokyonight" width="400" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/camu-al/simagrow">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=camu-al&repo=simagrow&theme=tokyonight" width="400" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/camu-al/inapedia">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=camu-al&repo=inapedia&theme=tokyonight" width="400" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br clear="left"/>
 
 ## 📊 GitHub Stats
 
