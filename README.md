@@ -65,21 +65,13 @@ I'm currently looking for an internship opportunity where I can continue learnin
 
 <div align="left">
 
-  <a href="https://github.com/camu-al/inapedia">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=camu-al&repo=inapedia&theme=tokyonight&hide_border=true&v=1" />
-  </a>
-  
-  <a href="https://github.com/camu-al/simagrow">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=camu-al&repo=simagrow&theme=tokyonight&hide_border=true&v=1" />
-  </a>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=camu-al&repo=booking-manager&theme=tokyonight)](https://github.com/camu-al/booking-manager)
 
-  <a href="https://github.com/camu-al/wikimon">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=camu-al&repo=wikimon&theme=tokyonight&hide_border=true&v=1" />
-  </a>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=camu-al&repo=wikimon&theme=tokyonight)](https://github.com/camu-al/wikimon)
 
-  <a href="https://github.com/camu-al/booking-manager">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=camu-al&repo=booking-manager&theme=tokyonight&hide_border=true&v=1" />
-  </a>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=camu-al&repo=simagrow&theme=tokyonight)](https://github.com/camu-al/simagrow)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=camu-al&repo=inapedia&theme=tokyonight)](https://github.com/camu-al/inapedia)
 
 </div>
 
