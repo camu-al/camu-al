@@ -63,41 +63,28 @@ I'm currently looking for an internship opportunity where I can continue learnin
 
 <h2 align="left">🌟 Projects</h2>
 
-<table align="left">
-  <tr>
-    <td>
-      <a href="https://github.com/camu-al/booking-manager">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=camu-al&repo=booking-manager&theme=tokyonight" width="400" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/camu-al/wikimon">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=camu-al&repo=wikimon&theme=tokyonight" width="400" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/camu-al/simagrow">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=camu-al&repo=simagrow&theme=tokyonight" width="400" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/camu-al/inapedia">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=camu-al&repo=inapedia&theme=tokyonight" width="400" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-<br clear="left"/>
+<p align="left">
+  <a href="https://github.com/camu-al/booking-manager">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=camu-al&repo=booking-manager&theme=tokyonight&cache_seconds=86400" width="48%" />
+  </a>
+  <a href="https://github.com/camu-al/wikimon">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=camu-al&repo=wikimon&theme=tokyonight&cache_seconds=86400" width="48%" />
+  </a>
+  <br>
+  <a href="https://github.com/camu-al/simagrow">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=camu-al&repo=simagrow&theme=tokyonight&cache_seconds=86400" width="48%" />
+  </a>
+  <a href="https://github.com/camu-al/inapedia">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=camu-al&repo=inapedia&theme=tokyonight&cache_seconds=86400" width="48%" />
+  </a>
+</p>
 
 ## 📊 GitHub Stats
 
 <table>
 <tr>
 <td rowspan="2">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=camu-al&langs_count=10&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=camu-al&langs_count=10&theme=tokyonight&cache_seconds=86400" />
 </td>
 <td>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=camu-al&theme=tokyonight" />
@@ -105,7 +92,7 @@ I'm currently looking for an internship opportunity where I can continue learnin
 </tr>
 <tr>
 <td>
-  <img src="https://github-readme-stats.vercel.app/api?username=camu-al&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,issue_comments&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=camu-al&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,issue_comments&theme=tokyonight&cache_seconds=86400" />
 </td>
 </tr>
 </table>
