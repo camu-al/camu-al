@@ -37,13 +37,6 @@ I'm currently looking for an internship opportunity where I can continue learnin
 
 ---
 
-### 🚀 Currently Learning
-- Java & OOP  
-- Spring Boot (REST APIs, services, repositories, DTOs)  
-- Android development (Kotlin, Retrofit, Room)  
-- MySQL & relational database design  
-- Git & GitHub workflows
-  
 ## 💻 Skills
 
 ### **Languages**
