@@ -63,15 +63,6 @@ I'm currently looking for an internship opportunity where I can continue learnin
 
 <h2 align="left">🌟 Projects</h2>
 
-<ul align="left">
-  <li><b><a href="https://github.com/camu-al/booking-manager">booking-manager</a></b>: Sistema de gestión y reservas.</li>
-  <li><b><a href="https://github.com/camu-al/wikimon">wikimon</a></b>: Aplicación orientada a información y recursos.</li>
-  <li><b><a href="https://github.com/camu-al/simagrow">simagrow</a></b>: Plataforma de desarrollo y control.</li>
-  <li><b><a href="https://github.com/camu-al/inapedia">inapedia</a></b>: Repositorio de documentación y utilidades.</li>
-</ul>
-
-<h2 align="left">🌟 Projects</h2>
-
 <p align="left">
   <a href="https://github.com/camu-al/booking-manager">
     <img src="https://img.shields.io/badge/booking--manager-0F172A?style=for-the-badge&logo=github&logoColor=white" />
