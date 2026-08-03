@@ -35,8 +35,7 @@ I'm currently looking for an internship opportunity where I can continue learnin
 
 </p>
 
-
-
+<br></br>
 ## 💻 Skills
 
 ### **Languages**
