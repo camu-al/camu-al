@@ -1,5 +1,3 @@
-<!-- Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1E40AF&height=120&section=header"/>
 
 <!-- Header Name -->
 <h1 align="left">👋 About Me</h1>
@@ -89,7 +87,4 @@ I'm currently looking for an internship opportunity where I can continue learnin
 <tr>
 
 </table>
-<!-- Footer -->
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1E40AF&height=120&section=footer"/>
-</p>
+
