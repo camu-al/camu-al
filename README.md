@@ -5,9 +5,9 @@
 
 <!-- Info Badges --> 
 <p align="center"> 
-  <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Android%20Dev-111111?style=for-the-badge&color=222222&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Android%20Dev-111111?style=for-the-badge&color=222222&logoColor=white" />
+  <img src="https://img.shields.io/github/stars/camu-al?style=for-the-badge&logo=star&color=111111&labelColor=222222&logoColor=white" />
   <img src="https://img.shields.io/badge/Languages-Spanish%20%7C%20English-111111?style=for-the-badge&color=222222&logoColor=white" /> 
-  <img src="https://img.shields.io/github/stars/camu-al?style=for-the-badge&logo=star&color=111111&labelColor=333333&logoColor=white" />
 </p>
 
 <!-- Header & Bio -->
