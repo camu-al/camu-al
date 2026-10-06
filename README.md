@@ -58,11 +58,11 @@ I'm currently looking for an internship opportunity where I can continue learnin
 > *"Code is never finished, it only gets slightly less terrible over time."*
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=camu-al&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=camu-al&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=camu-al&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=camu-al&theme=dark&hide_border=true" width="48%" />
 </p>
 
 <!-- Tarjeta inferior en modo oscuro puro (tokyonight) -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=camu-al&theme=tokyonight" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=camu-al&theme=dark" width="100%" />
 </p>
