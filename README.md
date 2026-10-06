@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="URL_DE_TU_BANNER_AQUI" width="100%" />
+  <img width="100%" alt="camu-banner" src="https://github.com/user-attachments/assets/62ab4b60-36a6-4e3b-8341-010a493f8d45" />
 </p>
 
 <!-- Header Name -->
