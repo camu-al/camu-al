@@ -3,17 +3,11 @@
   <img width="100%" alt="camu-banner1" src="https://github.com/user-attachments/assets/0b22f50a-28fd-4eff-982f-77fe81f67cb4" />
 </p>
 
-<!-- GitHub Real-Time Metrics Badges -->
-<p align="center">
-  <img src="https://img.shields.io/github/stars/camu-al?style=for-the-badge&logo=star&color=111111&labelColor=333333&logoColor=white" />
-  <img src="https://img.shields.io/github/followers/camu-al?style=for-the-badge&logo=github&color=111111&labelColor=333333&logoColor=white" />
-</p>
-
 <!-- Info Badges --> 
 <p align="center"> 
   <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Android%20Dev-111111?style=for-the-badge&color=222222&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Languages-Spanish%20%7C%20English-111111?style=for-the-badge&color=222222&logoColor=white" /> 
-  <img src="https://komarev.com/ghpvc/?username=camu-al&label=Profile%20views&color=222222&style=for-the-badge" /> 
+  <img src="https://img.shields.io/github/stars/camu-al?style=for-the-badge&logo=star&color=111111&labelColor=333333&logoColor=white" />
 </p>
 
 <!-- Header & Bio -->
