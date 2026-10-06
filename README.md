@@ -54,12 +54,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=camu-al&show_icons=true&theme=github_dark&hide_border=true&text_color=ffffff&title_color=ffffff&icon_color=888888" width="48%" />
   <img src="https://streak-stats.demolab.com?user=camu-al&hide_border=true&background=transparent&stroke=888888&ring=FFFFFF&fire=888888&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=888888&sideLabels=FFFFFF&dates=FFFFFF" width="48%" />
 </p>
----
-
-<!-- Code Philosophy & Footer Detail -->
-<div style="overflow: hidden; width: 100%; margin-top: 20px;">
-  <img align="right" width="120px" alt="katana" src="https://github.com/user-attachments/assets/a9f309cb-ec95-460e-9296-87b34f5824c3" style="margin-left: 20px; margin-bottom: 10px;" />
-  <p style="padding-top: 15px;">
-    <em style="color: #888888; font-size: 14px;">> "Code is never finished, it only gets slightly less terrible over time."</em>
-  </p>
-</div>
