@@ -18,16 +18,6 @@ I'm passionate about <strong>backend development</strong> with Java and Spring B
 I'm currently looking for an internship opportunity where I can continue learning, contribute to real software projects, and grow as a software developer.
 </p>
 
-<!-- Connect Links -->
-<p align="left">
-  <a href="https://www.linkedin.com/in/camu-al/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%231C1C1C.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:camudeveloper@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-%231C1C1C.svg?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
 <!-- Tech Stack -->
 <p align="left">
   <img src="https://img.shields.io/badge/java-%231C1C1C.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -49,3 +39,13 @@ I'm currently looking for an internship opportunity where I can continue learnin
 </p>
 
 > *"Code is never finished, it only gets slightly less terrible over time."*
+
+<!-- Connect Links -->
+<p align="left">
+  <a href="https://www.linkedin.com/in/camu-al/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%231C1C1C.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:camudeveloper@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-%231C1C1C.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
