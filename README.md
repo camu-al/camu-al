@@ -1,5 +1,3 @@
-
-
 <!-- Banner Image -->
 <p align="center">
   <img width="100%" alt="camu-banner1" src="https://github.com/user-attachments/assets/0b22f50a-28fd-4eff-982f-77fe81f67cb4" />
