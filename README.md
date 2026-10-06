@@ -53,8 +53,8 @@
 
 <!-- GitHub Stats & Streak (Blanco y Negro Absoluto) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=camu-al&show_icons=true&hide_border=true&include_all_commits=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=888888" width="490px" />
-  <img src="https://streak-stats.demolab.com?user=camu-al&hide_border=true&background=000000&stroke=888888&ring=FFFFFF&fire=888888&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=888888&sideLabels=FFFFFF&dates=FFFFFF" width="517px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=camu-al&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&text_color=ffffff&icon_color=888888&title_color=ffffff" width="490px" />
+  <img src="https://streak-stats.demolab.com?user=camu-al&hide_border=true&background=transparent&stroke=888888&ring=FFFFFF&fire=888888&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=888888&sideLabels=FFFFFF&dates=FFFFFF" width="490px" />
 </p>
 
 <!-- Code Philosophy -->
