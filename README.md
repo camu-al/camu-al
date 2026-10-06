@@ -6,7 +6,6 @@
 <!-- GitHub Real-Time Metrics Badges -->
 <p align="center">
   <img src="https://img.shields.io/github/stars/camu-al?style=for-the-badge&logo=star&color=111111&labelColor=333333&logoColor=white" />
-  <img src="https://img.shields.io/github/forks/camu-al?style=for-the-badge&logo=git&color=333333&labelColor=111111&logoColor=white" />
   <img src="https://img.shields.io/github/followers/camu-al?style=for-the-badge&logo=github&color=111111&labelColor=333333&logoColor=white" />
 </p>
 
