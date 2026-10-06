@@ -12,9 +12,9 @@
 <!-- Header & Bio -->
 <p align="left">
 Hi! I'm <strong>Alex Camuñas</strong>, a <strong>Multi-platform Application Development (DAM)</strong> graduate from Valencia.
-
+<br><br>
 I'm passionate about <strong>backend development</strong> with Java and Spring Boot, as well as <strong>Android development</strong> using Kotlin. I enjoy designing and building <strong>REST APIs</strong>, working with databases such as MySQL, and applying clean architectures in real-world projects.
-
+<br><br>
 I'm currently looking for an internship opportunity where I can continue learning, contribute to real software projects, and grow as a software developer.
 </p>
 
@@ -28,7 +28,8 @@ I'm currently looking for an internship opportunity where I can continue learnin
   </a>
 </p>
 
-<p algn="left">
+<!-- Tech Stack -->
+<p align="left">
   <img src="https://img.shields.io/badge/java-%231C1C1C.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/kotlin-%231C1C1C.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/javascript-%231C1C1C.svg?style=for-the-badge&logo=javascript&logoColor=white" />
@@ -41,11 +42,12 @@ I'm currently looking for an internship opportunity where I can continue learnin
   <img src="https://img.shields.io/badge/github-%231C1C1C.svg?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
+<!-- Top Projects -->
 <p align="left">
   <a href="https://github.com/camu-al/booking-manager">
     <img src="https://img.shields.io/badge/booking--manager-1C1C1C?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://github.com/camu-al/wikimon">
+  <a href="https://github.1com/camu-al/wikimon">
     <img src="https://img.shields.io/badge/wikimon-1C1C1C?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://github.com/camu-al/simagrow">
@@ -58,12 +60,13 @@ I'm currently looking for an internship opportunity where I can continue learnin
 
 > *"Code is never finished, it only gets slightly less terrible over time."*
 
+<!-- Estadísticas transparentes con texto blanco forzado -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=camu-al&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=camu-al&theme=transparent&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=camu-al&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&text_color=ffffff&icon_color=ffffff&ring_color=ffffff" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=camu-al&theme=transparent&hide_border=true&stroke=ffffff&ring=ffffff&fire=ffffff&sideLabels=ffffff&currStreakNum=ffffff" width="48%" />
 </p>
 
-<!-- Tarjeta inferior en modo oscuro puro (tokyonight) -->
+<!-- Tarjeta inferior transparente -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=camu-al&theme=transparent" width="100%" />
 </p>
