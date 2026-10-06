@@ -65,8 +65,3 @@ I'm currently looking for an internship opportunity where I can continue learnin
   <img src="https://github-readme-stats.vercel.app/api?username=camu-al&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&text_color=ffffff&icon_color=ffffff&ring_color=ffffff" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=camu-al&theme=transparent&hide_border=true&stroke=ffffff&ring=ffffff&fire=ffffff&sideLabels=ffffff&currStreakNum=ffffff" width="48%" />
 </p>
-
-<!-- Tarjeta inferior transparente -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=camu-al&theme=transparent" width="100%" />
-</p>
