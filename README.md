@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img width="100%" alt="camu-banner" src="https://github.com/user-attachments/assets/62ab4b60-36a6-4e3b-8341-010a493f8d45" />
+  <img width="100%" alt="camu-banner" src="https://github.com/user-attachments/assets/3747ce57-69ba-4d5c-b6ee-3c7c083dfdfd" />
 </p>
 
 <!-- Header Name -->
