@@ -20,10 +20,10 @@ I'm currently looking for an internship opportunity where I can continue learnin
 
 <p align="left">
   <a href="https://www.linkedin.com/in/camu-al/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:camudeveloper@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -32,16 +32,16 @@ I'm currently looking for an internship opportunity where I can continue learnin
 ### 💻 Tech Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/intellijidea-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
-  <img src="https://img.shields.io/badge/android%20studio-%233DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/java-%231C1C1C.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/kotlin-%231C1C1C.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%231C1C1C.svg?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/typescript-%231C1C1C.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/mysql-%231C1C1C.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/intellijidea-%231C1C1C.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+  <img src="https://img.shields.io/badge/android%20studio-%231C1C1C.svg?style=for-the-badge&logo=android-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-%231C1C1C.svg?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-%231C1C1C.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/github-%231C1C1C.svg?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
@@ -50,16 +50,16 @@ I'm currently looking for an internship opportunity where I can continue learnin
 
 <p align="left">
   <a href="https://github.com/camu-al/booking-manager">
-    <img src="https://img.shields.io/badge/booking--manager-0F172A?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/booking--manager-1C1C1C?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://github.com/camu-al/wikimon">
-    <img src="https://img.shields.io/badge/wikimon-0F172A?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/wikimon-1C1C1C?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://github.com/camu-al/simagrow">
-    <img src="https://img.shields.io/badge/simagrow-0F172A?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/simagrow-1C1C1C?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://github.com/camu-al/inapedia">
-    <img src="https://img.shields.io/badge/inapedia-0F172A?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/inapedia-1C1C1C?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -70,13 +70,14 @@ I'm currently looking for an internship opportunity where I can continue learnin
 
 ---
 
-### 📊 GitHub Stats & Contribution Graph
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=camu-al&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=camu-al&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=camu-al&show_icons=true&theme=nord&hide_border=true&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=camu-al&theme=nord&hide_border=true" width="48%" />
 </p>
 
+<!-- Gráfico de contribuciones nativo adaptado a tonos oscuros/grises -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=camu-al&theme=tokyonight&hide_border=true&area=true" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=camu-al&theme=nord" width="100%" />
 </p>
