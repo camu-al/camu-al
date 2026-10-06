@@ -42,26 +42,10 @@ I'm currently looking for an internship opportunity where I can continue learnin
   <img src="https://img.shields.io/badge/github-%231C1C1C.svg?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-<!-- Top Projects -->
-<p align="left">
-  <a href="https://github.com/camu-al/booking-manager">
-    <img src="https://img.shields.io/badge/booking--manager-1C1C1C?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://github.1com/camu-al/wikimon">
-    <img src="https://img.shields.io/badge/wikimon-1C1C1C?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://github.com/camu-al/simagrow">
-    <img src="https://img.shields.io/badge/simagrow-1C1C1C?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://github.com/camu-al/inapedia">
-    <img src="https://img.shields.io/badge/inapedia-1C1C1C?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-> *"Code is never finished, it only gets slightly less terrible over time."*
-
 <!-- Estadísticas transparentes con texto blanco forzado -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=camu-al&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&text_color=ffffff&icon_color=ffffff&ring_color=ffffff" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=camu-al&theme=transparent&hide_border=true&stroke=ffffff&ring=ffffff&fire=ffffff&sideLabels=ffffff&currStreakNum=ffffff" width="48%" />
 </p>
+
+> *"Code is never finished, it only gets slightly less terrible over time."*
