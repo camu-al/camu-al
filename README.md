@@ -17,16 +17,6 @@
 - 👯 Looking for an internship opportunity to contribute to real software teams and grow.
 - 📫 Reach out to me at: camudeveloper@gmail.com
 
-<!-- Connect Links -->
-<p align="left">
-  <a href="https://www.linkedin.com/in/camu-al/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%231C1C1C.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:camudeveloper@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-%231C1C1C.svg?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
 <!-- Tech Stack -->
 ### 💻 Tech Stack
 <p align="left">
@@ -61,15 +51,24 @@
 
 ---
 
+<!-- GitHub Stats & Streak (Blanco y Negro Absoluto) -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=camu-al&show_icons=true&hide_border=true&include_all_commits=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=888888" width="490px" />
+  <img src="https://streak-stats.demolab.com?user=camu-al&hide_border=true&background=000000&stroke=888888&ring=FFFFFF&fire=888888&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=888888&sideLabels=FFFFFF&dates=FFFFFF" width="517px" />
+</p>
+
 <!-- Code Philosophy -->
 <p align="center">
   <em>> "Code is never finished, it only gets slightly less terrible over time."</em>
 </p>
 
 ---
-
-<!-- GitHub Stats & Streak (Blanco y Negro Absoluto) -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=camu-al&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&text_color=ffffff&icon_color=ffffff&ring_color=ffffff" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=camu-al&hide_border=true&background=000000&stroke=888888&ring=FFFFFF&fire=888888&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=888888&sideLabels=FFFFFF&dates=FFFFFF" width="48%" />
+<!-- Connect Links -->
+<p align="left">
+  <a href="https://www.linkedin.com/in/camu-al/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%231C1C1C.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:camudeveloper@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-%231C1C1C.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
