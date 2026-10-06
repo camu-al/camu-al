@@ -3,10 +3,10 @@
   <img width="100%" alt="camu-banner1" src="https://github.com/user-attachments/assets/0b22f50a-28fd-4eff-982f-77fe81f67cb4" />
 </p>
 
-<!-- Info Badges --> 
+<!-- Info Badges (Todos unificados en tono oscuro) --> 
 <p align="center"> 
   <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Android%20Dev-111111?style=for-the-badge&color=222222&logoColor=white" />
-  <img src="https://img.shields.io/github/stars/camu-al?style=for-the-badge&logo=star&color=111111&labelColor=222222&logoColor=white" />
+  <img src="https://img.shields.io/github/stars/camu-al?style=for-the-badge&logo=star&color=222222&labelColor=111111&logoColor=white" />
   <img src="https://img.shields.io/badge/Languages-Spanish%20%7C%20English-111111?style=for-the-badge&color=222222&logoColor=white" /> 
 </p>
 
@@ -80,11 +80,11 @@ I'm currently looking for an internship opportunity where I can continue learnin
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=camu-al&show_icons=true&theme=nord&hide_border=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=camu-al&theme=nord&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=camu-al&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=camu-al&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
-<!-- Gráfico de contribuciones nativo adaptado a tonos oscuros/grises -->
+<!-- Tarjeta inferior en modo oscuro puro (tokyonight) -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=camu-al&theme=nord" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=camu-al&theme=tokyonight" width="100%" />
 </p>
