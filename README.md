@@ -9,14 +9,13 @@
   <img src="https://img.shields.io/badge/Languages-Spanish%20%7C%20English-111111?style=for-the-badge&color=222222&logoColor=white" /> 
 </p>
 
-<!-- Header & Bio -->
-<p align="left">
-Hi! I'm <strong>Alex Camuñas</strong>, a <strong>Multi-platform Application Development (DAM)</strong> graduate from Valencia.
-<br><br>
-I'm passionate about <strong>backend development</strong> with Java and Spring Boot, as well as <strong>Android development</strong> using Kotlin. I enjoy designing and building <strong>REST APIs</strong>, working with databases such as MySQL, and applying clean architectures in real-world projects.
-<br><br>
-I'm currently looking for an internship opportunity where I can continue learning, contribute to real software projects, and grow as a software developer.
-</p>
+<!-- About Me (Estilo lista limpia) -->
+### 💫 About Me
+- 🎓 I'm a Multi-platform Application Development (DAM) graduate from Valencia.
+- 💻 Passionate about backend development with Java & Spring Boot, and Android development using Kotlin.
+- 🌱 I’m currently learning advanced clean architectures and best practices.
+- 👯 I’m looking for an internship opportunity to contribute to real software projects and grow.
+- 📫 Reach out to me at: camudeveloper@gmail.com
 
 <!-- Tech Stack -->
 <p align="left">
