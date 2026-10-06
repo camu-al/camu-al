@@ -3,15 +3,13 @@
   <img width="100%" alt="camu-banner1" src="https://github.com/user-attachments/assets/0b22f50a-28fd-4eff-982f-77fe81f67cb4" />
 </p>
 
-<!-- Info Badges (Todos unificados en tono oscuro) --> 
+<!-- Info Badges --> 
 <p align="center"> 
   <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Android%20Dev-111111?style=for-the-badge&color=222222&logoColor=white" />
   <img src="https://img.shields.io/badge/Languages-Spanish%20%7C%20English-111111?style=for-the-badge&color=222222&logoColor=white" /> 
 </p>
 
 <!-- Header & Bio -->
-<h3 align="left">About Me</h3>
-
 <p align="left">
 Hi! I'm <strong>Alex Camuñas</strong>, a <strong>Multi-platform Application Development (DAM)</strong> graduate from Valencia.
 
@@ -19,10 +17,6 @@ I'm passionate about <strong>backend development</strong> with Java and Spring B
 
 I'm currently looking for an internship opportunity where I can continue learning, contribute to real software projects, and grow as a software developer.
 </p>
-
----
-
-### 🔗 Connect
 
 <p align="left">
   <a href="https://www.linkedin.com/in/camu-al/" target="_blank">
@@ -33,11 +27,7 @@ I'm currently looking for an internship opportunity where I can continue learnin
   </a>
 </p>
 
----
-
-### 💻 Tech Stack
-
-<p align="left">
+<p algn="left">
   <img src="https://img.shields.io/badge/java-%231C1C1C.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/kotlin-%231C1C1C.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/javascript-%231C1C1C.svg?style=for-the-badge&logo=javascript&logoColor=white" />
@@ -49,10 +39,6 @@ I'm currently looking for an internship opportunity where I can continue learnin
   <img src="https://img.shields.io/badge/git-%231C1C1C.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/github-%231C1C1C.svg?style=for-the-badge&logo=github&logoColor=white" />
 </p>
-
----
-
-### 🌟 Top Projects
 
 <p align="left">
   <a href="https://github.com/camu-al/booking-manager">
@@ -69,14 +55,7 @@ I'm currently looking for an internship opportunity where I can continue learnin
   </a>
 </p>
 
----
-
-### 💡 Code Philosophy
 > *"Code is never finished, it only gets slightly less terrible over time."*
-
----
-
-### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=camu-al&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="48%" />
