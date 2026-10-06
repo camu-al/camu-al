@@ -3,11 +3,13 @@
   <img width="100%" alt="camu-banner1" src="https://github.com/user-attachments/assets/0b22f50a-28fd-4eff-982f-77fe81f67cb4" />
 </p>
 
+<!-- GitHub Real-Time Metrics Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/★%20STARS-111111?style=for-the-badge&color=333333&logoColor=white" />
-  <img src="https://img.shields.io/badge/FORKS-333333?style=for-the-badge&color=111111&logoColor=white" />
-  <img src="https://img.shields.io/badge/FOLLOWERS-111111?style=for-the-badge&color=333333&logoColor=white" />
+  <img src="https://img.shields.io/github/stars/camu-al?style=for-the-badge&logo=star&color=111111&labelColor=333333&logoColor=white" />
+  <img src="https://img.shields.io/github/forks/camu-al?style=for-the-badge&logo=git&color=333333&labelColor=111111&logoColor=white" />
+  <img src="https://img.shields.io/github/followers/camu-al?style=for-the-badge&logo=github&color=111111&labelColor=333333&logoColor=white" />
 </p>
+
 <!-- Info Badges --> 
 <p align="center"> 
   <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Android%20Dev-111111?style=for-the-badge&color=222222&logoColor=white" /> 
@@ -16,7 +18,7 @@
 </p>
 
 <!-- Header & Bio -->
-<h3 align="left">⚡ Know About Me</h3>
+<h3 align="left">About Me</h3>
 
 <p align="left">
 Hi! I'm <strong>Alex Camuñas</strong>, a <strong>Multi-platform Application Development (DAM)</strong> graduate from Valencia.
