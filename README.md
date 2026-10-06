@@ -35,7 +35,6 @@
   <img src="https://img.shields.io/badge/java-%231C1C1C.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/spring%20boot-%231C1C1C.svg?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/kotlin-%231C1C1C.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/typescript-%231C1C1C.svg?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
 **Databases & Tools**
