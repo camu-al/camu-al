@@ -3,6 +3,12 @@
   <img width="100%" alt="camu-banner1" src="https://github.com/user-attachments/assets/0b22f50a-28fd-4eff-982f-77fe81f67cb4" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/★%20STARS-111111?style=for-the-badge&color=333333&logoColor=white" />
+  <img src="https://img.shields.io/badge/FORKS-333333?style=for-the-badge&color=111111&logoColor=white" />
+  <img src="https://img.shields.io/badge/FOLLOWERS-111111?style=for-the-badge&color=333333&logoColor=white" />
+</p>
+
 <!-- Header & Bio -->
 <h3 align="left">⚡ Know About Me</h3>
 
