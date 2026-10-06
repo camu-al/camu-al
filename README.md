@@ -3,6 +3,9 @@
 <!-- Banner Image -->
 <p align="center">
   <img width="100%" alt="camu-banner1" src="https://github.com/user-attachments/assets/e9336896-5d53-4506-80fb-457eb45c768f" />
+  <img width="1424" height="500" alt="Añadir un subtítulo" src="https://github.com/user-attachments/assets/0b22f50a-28fd-4eff-982f-77fe81f67cb4" />
+  <img width="1424" height="500" alt="banner git hub 1" src="https://github.com/user-attachments/assets/bb25fa2d-b1bf-4148-b9e8-09412b321a37" />
+
 </p>
 
 <!-- Header Name -->
